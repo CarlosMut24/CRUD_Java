@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# NetBeans-specific files
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# System files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
