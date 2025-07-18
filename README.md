@@ -26,7 +26,7 @@ Você pode executá-lo no pgAdmin, DBeaver ou via terminal com o comando:
 
 ```bash
 psql -U seu_usuario -d postgres -f script_criacao_banco.sql
-
+```
 Atenção: Ajuste o hibernate.cfg.xml com seu usuário, senha e porta do PostgreSQL
 
 ## Como rodar o projeto
